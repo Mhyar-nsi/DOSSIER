@@ -43,7 +43,7 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Mhyar-nsi/DOSSIER.git](https://github.com/Mhyar-nsi/DOSSIER.git)
+    git clone https://github.com/Mhyar-nsi/DOSSIER.git
     cd DOSSIER
     ```
 
