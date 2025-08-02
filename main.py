@@ -260,7 +260,7 @@ def dossier_form(stdscr, person_data=None):
     
     curses.curs_set(1)
     h, w = stdscr.getmaxyx()
-    title = f"EDITING: {person_data['name']}" if is_editing else "ADD NEW DOSSIER"
+    title = f"EDITING" if is_editing else "ADD NEW DOSSIER"
     
     # Define all possible fields for the form.
     fields = [
